@@ -1,0 +1,18 @@
+h1{ 
+    font-family:'courier New', 'Sans-Serif';
+    color:blue;
+    font-size: 36px;
+    text-align: center;
+} 
+h2{
+text-align: center;
+font-family:'Times New Romans', cursive; 
+colour:brown;
+}
+ul{
+    list-style-type:none;
+}
+li{color:red;
+font-style:italic;  
+text-align:center;}
+]
